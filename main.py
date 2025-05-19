@@ -1,6 +1,6 @@
-Copyright (C) @TheSmartBisnu
+#Copyright (C) @TheSmartBisnu
 
-Channel: https://t.me/itsSmartDev
+#Channel: https://t.me/itsSmartDev
 
 import os import shutil from time import time
 
