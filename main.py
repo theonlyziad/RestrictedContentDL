@@ -57,7 +57,7 @@ async def help_command(_, message: Message):
         "1. Send the command `/dl post URL` to download media from a specific message.\n"
         "2. The bot will download the media (photos, videos, audio, or documents) also can copy message.\n"
         "3. Make sure the bot and the user client are part of the chat to download the media.\n\n"
-        "**Example**: `/dl https://t.me/itsSmartDev/547`"
+        "**Example**: `/dl https://t.me/mypublicstuffs/3`"
     )
     await message.reply(help_text)
 
