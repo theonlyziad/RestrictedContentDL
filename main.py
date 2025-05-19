@@ -1,3 +1,7 @@
+# Copyright (C) @TheSmartBisnu
+
+# Channel: https://t.me/itsSmartDev
+
 import os import shutil from time import time
 
 import psutil from pyrogram import Client, filters from pyrogram.enums import ParseMode from pyrogram.errors import PeerIdInvalid, BadRequest from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton from pyleaves import Leaves
